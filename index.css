@@ -1,0 +1,29 @@
+body, li {
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+
+header {
+    background: #4a2b33;
+    width: 1440px;
+    height: 800px;
+    position: relative;
+    background-image: url("img/fonHeader.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.restangle ul li  {
+    display: inline-block;
+    color: #d27487;
+    text-align: left;
+    font-family: 'Inter-Regular', sans-serif;
+    font-size: 15px;
+    line-height: 24px;
+    font-weight: 400;
+    position: relative;
+    width: 4%;
+    margin-top: 20px;
+}
+
